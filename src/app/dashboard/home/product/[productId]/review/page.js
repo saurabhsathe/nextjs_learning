@@ -1,7 +1,7 @@
 
 const page = (props) => {
   return (
-    <div>Here</div>
+    <div>Here </div>
   )
 }
 
